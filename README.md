@@ -3,10 +3,6 @@
 
 ## Repositórios 📦
 
-- Python
-  
-- C++
-  
 - C
   - [Estrutura de Dados](https://github.com/Giovanni-Ornellas/Estudos_Estruturas_de_Dados)
     
