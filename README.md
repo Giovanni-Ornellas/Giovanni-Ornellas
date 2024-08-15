@@ -9,7 +9,8 @@
 - HTML
   - [Projeto de Currículo Simples](https://github.com/Giovanni-Ornellas/Projeto-Curriculo-Simples)
 
-
+- Python
+  - [Sistemas de Gerenciamento](https://github.com/Giovanni-Ornellas/Sistema-de-Gerenciamento)
 
 
 Obrigado por visitar meu perfil! 🚀
