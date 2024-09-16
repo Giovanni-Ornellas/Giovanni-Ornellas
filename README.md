@@ -22,7 +22,7 @@
 ## Meus Repositórios
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
   - [Estrutura de Dados](https://github.com/Giovanni-Ornellas/Estudos_Estruturas_de_Dados)
-  - [Piscina Vazia 42]((https://github.com/Giovanni-Ornellas/Piscina-Vazia-42))
+  - [Piscina Vazia 42](https://github.com/Giovanni-Ornellas/Piscina-Vazia-42)
     
     
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
