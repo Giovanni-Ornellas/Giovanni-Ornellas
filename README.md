@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/1*czcdGNhz6jvyxSRvmuxlSQ.gif" width="1050" height="300" />
+<img src="https://i.pinimg.com/originals/7a/d0/c9/7ad0c9b192167fbeac6f53ff97a656df.gif" width="1050" height="300" />
 
 
 ## Minhas Habilidades
