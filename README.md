@@ -6,9 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-### Ciência de Dados
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ### Ferramentas e Estações de Trabalho
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-6CC644?style=for-the-badge&logo=gitkraken&logoColor=white)&nbsp;
@@ -20,10 +17,6 @@
 
 ## Meus Repositórios
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-  - [Piscina Vazia 42](https://github.com/Giovanni-Ornellas/Piscina-Vazia-42)
-       
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  - [Projeto de Currículo Simples](https://github.com/Giovanni-Ornellas/Projeto-Curriculo-Simples)
 
 
 ### Contato
