@@ -17,7 +17,9 @@
 
 ## Meus Repositórios
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-
+- [Simulador de Gerenciamento de Memória – Alocação Contígua](https://github.com/Giovanni-Ornellas/Gerenciador_de_Memoria_Contigua)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+- [Simulador de Gerenciamento de Memória – Alocação Contígua](https://github.com/Giovanni-Ornellas/Gerenciador_de_Memoria_Contigua)
 
 ### Contato
 <div> 
