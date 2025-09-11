@@ -1,5 +1,4 @@
-<img src="https://github.com/user-attachments/assets/fbc68030-a5ed-4803-b787-46d3be7ff1a4](https://miro.medium.com/v2/1*czcdGNhz6jvyxSRvmuxlSQ.gif)" width="1050" height="300" />
-
+<img src="https://miro.medium.com/v2/1*czcdGNhz6jvyxSRvmuxlSQ.gif" width="1050" height="300" />
 
 
 ## Minhas Habilidades
