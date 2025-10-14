@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/7a/d0/c9/7ad0c9b192167fbeac6f53ff97a656df.gif" width="1050" height="500" />
+<img src="https://scientificusblogpt.wordpress.com/wp-content/uploads/2014/05/giphy.gif" width="1050" height="500" />
 
 
 ## Minhas Habilidades
