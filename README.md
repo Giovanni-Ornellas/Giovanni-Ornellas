@@ -1,4 +1,4 @@
-src=<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3ac48dc4-6b32-4d60-9508-1dd92b028030" width="1050" height="500" />
+<img alt="image" src="https://github.com/user-attachments/assets/3ac48dc4-6b32-4d60-9508-1dd92b028030" width="1050" height="500" />
 
 
 ## Minhas Habilidades
