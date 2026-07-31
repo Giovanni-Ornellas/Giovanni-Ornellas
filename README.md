@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3ac48dc4-6b32-4d60-9508-1dd92b028030" alt="banner" width="100%">
-</p>
-
 ## Minhas Habilidades
 
 ### Linguagens de Programação
